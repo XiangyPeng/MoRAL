@@ -1,4 +1,4 @@
-# MoRAL: 4D Radar and LiDAR Fusion for Robust 3D Object Detection
+# [ITSC 2025 Best Student Paper--First Award]  MoRAL: 4D Radar and LiDAR Fusion for Robust 3D Object Detection
 
 ![motivation](https://s2.loli.net/2025/05/14/oS8UYNJdnyxDKWu.png)
 
